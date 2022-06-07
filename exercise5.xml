@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listacompras xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="exercise5.xsd">
+<!--DOCTYPE listacompras SYSTEM "exercise5.dtd">
+
+<listacompras-->
+    <venta>
+        <ventaacredito>
+            <fechafinpago>10/12/2022</fechafinpago>
+            <cantidad>1000000</cantidad>
+        </ventaacredito>
+    </venta>
+    <venta>
+        <ventaacredito>
+            <cantidad>5660000</cantidad>
+        </ventaacredito>
+    </venta>
+    <venta>
+        <ventainmediata>
+            <cantidad>6744456</cantidad>
+            <divisa>34674</divisa>
+        </ventainmediata>
+    </venta>
+</listacompras>
